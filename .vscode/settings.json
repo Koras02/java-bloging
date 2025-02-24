@@ -1,0 +1,5 @@
+{
+    "java.format.settings.url": "file://${workspaceFolder}/google-java-format.jar",
+    "java.format.settings.profile": "GoogleStyle",
+    "editor.formatOnSave": true
+}
